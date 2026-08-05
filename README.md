@@ -78,12 +78,24 @@ Evaluation metrics include:
 ## Repository Structure
 
 ```
+
+Sentiment-Analysis-using-LSTM-BiLSTM
+│
 ├── notebooks/
-├── models/
-├── results/
+│   └── sentiment_analysis.ipynb
+│
+├── dataset/
+│   └── README.md                   
+│
 ├── images/
+│   ├── model_architecture.png
+│   ├── accuracy_curve.png
+│   └── confusion_matrix.png
+│
+├── README.md
 ├── requirements.txt
-└── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
