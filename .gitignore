@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Google Colab
+.ipynb_checkpoints/
+
+# Trained models
+*.h5
+*.keras
+*.ckpt
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
